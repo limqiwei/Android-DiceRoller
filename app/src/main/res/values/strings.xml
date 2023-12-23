@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Roll</string>
+    <string name="congratulations_message">Congratulations you have rolled on the lucky side: %1$d!</string>
+    <string name="better_luck_next_time_message">Oops, better luck next time.</string>
+    <string name="no_roll_result">Roll first.</string>
+    <string name="version">Version %1$s</string>
+</resources>
